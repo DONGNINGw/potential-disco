@@ -1,11 +1,9 @@
-package dongning.todowin;
+package dongning.potentialdisco;
 
-import dongning.todowin.todo.Task;
+import dongning.potentialdisco.todo.Task;
 import org.junit.jupiter.api.Test;
 
 import java.sql.Date;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 public class TaskTest {
     // 测试 Task 类的构造函数和 getter 方法

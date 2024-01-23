@@ -1,7 +1,7 @@
-package dongning.todowin;
+package dongning.potentialdisco;
 
-import dongning.todowin.db.TasksDAO;
-import dongning.todowin.todo.Task;
+import dongning.potentialdisco.db.TasksDAO;
+import dongning.potentialdisco.todo.Task;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
